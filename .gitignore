@@ -1,0 +1,8 @@
+cublas64_12.dll
+libcublas.so.12
+
+libcudart.so.12
+cudart64_12.dll
+
+libcublasLt.so.12
+cublasLt64_12.dll
